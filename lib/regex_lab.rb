@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  if text.match(/^A/)
+  if word.match(/^A/)
   end
 end
 
